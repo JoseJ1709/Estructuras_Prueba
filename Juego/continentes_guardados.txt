@@ -1,0 +1,3 @@
+id_continente;Nombre continente
+1;América del Norte
+2;Europa

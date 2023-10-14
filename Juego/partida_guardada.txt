@@ -1,0 +1,23 @@
+Nombre del jugador: NombreDelJugador
+Color del jugador: ColorDelJugador
+ID del jugador: 1
+Territorios del jugador:
+Nombre: Alaska, Unidades: 1
+Nombre: Alberta, Unidades: 34
+Nombre: América Central, Unidades: 10
+Nombre: Estados Unidos Orientales, Unidades: 10
+Nombre: Groenlandia, Unidades: 10
+Nombre: Territorio Noroccidental, Unidades: 10
+Nombre: Ontario, Unidades: 10
+Nombre: Quebec, Unidades: 10
+Nombre: Estados Unidos Occidentales, Unidades: 10
+Nombre: Gran Bretaña, Unidades: 10
+Nombre: Islandia, Unidades: 10
+Nombre: Europa del Norte, Unidades: 10
+Nombre: Escandinavia, Unidades: 10
+Tarjetas del jugador:
+ID: 2, Tipo: TR, Territorio: 1
+ID: 3, Tipo: TR, Territorio: 2
+ID: 4, Tipo: TR, Territorio: 10
+ID: 5, Tipo: TR, Territorio: 11
+Tarjetas Global

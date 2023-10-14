@@ -1,0 +1,17 @@
+id_tarjeta;Tipo_tarjeta;Ket_territorio;Figura
+1;TR;27;Soldier
+2;TR;1;Canon
+3;TR;2;Canon
+4;TR;10;Soldier
+5;TR;11;Soldier
+6;TR;9;Soldier
+7;TR;28;Canon
+8;TR;24;Canon
+9;TR;23;Soldier
+10;TR;40;Horse
+11;TR;4;Canon
+12;TR;25;Horse
+13;TR;18;Soldier
+14;TR;5;Horse
+15;TR;19;Horse
+16;TR;29;Horse

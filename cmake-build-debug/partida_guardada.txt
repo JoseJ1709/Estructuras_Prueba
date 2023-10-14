@@ -1,0 +1,21 @@
+Nombre del jugador: NombreDelJugador
+Color del jugador: ColorDelJugador
+ID del jugador: 1
+Territorios del jugador:
+Nombre: Alaska, Unidades: 25
+Nombre: Alberta, Unidades: 5
+Nombre: América Central, Unidades: 10
+Nombre: Estados Unidos Orientales, Unidades: 10
+Nombre: Groenlandia, Unidades: 10
+Nombre: Territorio Noroccidental, Unidades: 10
+Nombre: Ontario, Unidades: 15
+Nombre: Quebec, Unidades: 10
+Nombre: Estados Unidos Occidentales, Unidades: 10
+Nombre: Gran Bretaña, Unidades: 10
+Nombre: Islandia, Unidades: 10
+Nombre: Europa del Norte, Unidades: 10
+Nombre: Escandinavia, Unidades: 10
+Tarjetas del jugador:
+ID: alberta, Tipo: infanteria, Territorio: alberta
+ID: americaCen, Tipo: infanteria, Territorio: americaCen
+ID: estadosUnidosOri, Tipo: infanteria, Territorio: estadosUnidosOri

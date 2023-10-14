@@ -1,0 +1,3 @@
+/home/jose/Probar/Estructuras1/cmake-build-debug/CMakeFiles/Estructuras1.dir
+/home/jose/Probar/Estructuras1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jose/Probar/Estructuras1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
